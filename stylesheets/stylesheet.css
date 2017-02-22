@@ -244,10 +244,11 @@ a {
   color: #fff;
   text-align: center;
   background-color: #3962AC;
-  background-image: linear-gradient(120deg, #3962AC, #DE9CD8); }
+background: linear-gradient(to right, #7599bd , #9999ff , #b399ff, #debade); /* Standard syntax */
+ 
 
 .main-content {
-  background-color: #fff;
+    background-color: #e6ccff;
 }
 
 .main-content h3 {
